@@ -13,6 +13,8 @@ function NavbarEx (){
             <Navbar className="navBg" variant="dark" expand="lg">
             <Link to = "/BlogList" className="btn tbn-primary m-1">BlogList</Link>
             <Link to = "/BlogPost" className="btn tbn-primary m-1">BlogPost</Link>
+            <Link to = "/Favorites" className="btn tbn-primary m-1">Favoritos</Link>
+            <Link to = "/WatchList" className="btn tbn-primary m-1">Watchlist</Link>
                 {/*<Container>
                 <Navbar.Brand as={Link} to="/" >React-Bootstrap</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />

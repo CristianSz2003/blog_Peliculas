@@ -41,7 +41,7 @@ const BlogPost =() => {
   },[])
 
   return (
-    <div>
+      <div>
       <p></p>
       <p></p>
       <h2 className="text-center">Busqueda</h2>
