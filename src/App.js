@@ -21,9 +21,6 @@ function App() {
                 <Route path = '/BlogPost' element={<BlogPost/>}/>
             </Routes>
         </React.Fragment>
-
-        
-
     )
     
 }
