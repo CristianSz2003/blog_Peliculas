@@ -6,6 +6,7 @@ import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import {NavbarEx} from './components';
 import BlogList from './blogList';
 import BlogPost from './blogPost';
+
 import FavoriteView from "./components/favorites";
 import WatchList from "./components/watchlist";
 
